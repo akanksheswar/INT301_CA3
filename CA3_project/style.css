@@ -1,0 +1,10 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+       font-weight: 300;
+       background-color: beige;
+}
+  
+h1, h2, h3, h4, h5 {
+       font-family: Copperplate, Papyrus, fantasy;
+       font-weight: 700;
+}
